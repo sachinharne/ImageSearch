@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cavista Android</string>
+    <string name="image">image</string>
+    <string name="enter_comment_here">Enter comment here</string>
+    <string name="submit">Submit</string>
+    <string name="search_title">Search</string>
+    <string name="click_search_icon_to_search_images">Click search icon to search images</string>
+    <string name="search_warning">Search can\'t be empty</string>
+    <string name="no_results_found">Sorry, cannot find results. Give another try.</string>
+    <string name="please_try_again">Please try again…</string>
+</resources>
